@@ -1,0 +1,26 @@
+def nro_mes(mes):
+    mes=mes.upper()
+    if (mes=="ENERO"):
+        return 1
+    if (mes=="FEBRERO"):
+        return 2
+    if (mes=="MARZO"):
+        return 3
+    if (mes=="ABRIL"):
+        return 4
+    if (mes=="MAYO"):
+        return 5
+    if (mes=="JUNIO"):
+        return 6
+    if (mes=="JULIO"):
+        return 7
+    if (mes=="AGOSTO"):
+        return 8
+    if (mes=="SEPTIEMBRE"):
+        return 9
+    if (mes=="OCTUBRE"):
+        return 10
+    if (mes=="NOVIEMBRE"):
+        return 11
+    if (mes=="DICIEMBRE"):
+        return 12
